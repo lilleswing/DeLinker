@@ -26,5 +26,5 @@ else
 fi
 
 # Install Libraries
-conda env create -f environment.yml
+conda env create -f DeLinker-env.yml
 echo "Installed Delinker"
